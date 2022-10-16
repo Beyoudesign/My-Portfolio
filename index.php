@@ -5,13 +5,15 @@
 
 
 <head>
-   <img src="images/my_personal_logo_white.png" alt="Be You Design Logo" width="5%" height="5%">
-</head>
+   <img src="images/my_personal_logo_white.png" alt="Be You Design Logo" width="10%" height="10%">
+
 
 <?php
     include 'header.php';
     include 'navigation.php';
 ?>
+
+</head>
 
     
     
