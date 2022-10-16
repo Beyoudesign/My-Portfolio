@@ -2,11 +2,16 @@
 
 <html>
 
+
+
+<head>
+   <img src="images/my_personal_logo_white.png" alt="Be You Design Logo" width="5%" height="5%">
+</head>
+
 <?php
     include 'header.php';
     include 'navigation.php';
 ?>
-
 
     
     
