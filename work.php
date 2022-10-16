@@ -5,6 +5,8 @@
 <?php
     include 'header.php';
     include 'navigation.php';
+    include 'logo.php';
+
 ?>
   
 
