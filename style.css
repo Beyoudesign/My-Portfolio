@@ -1,0 +1,27 @@
+body {
+    background: #000000;
+}
+
+#navigation {
+    font-size: 16px;
+    font-family: "Montserrat", "Sans Serif";
+    text-transform: lowercase;
+    text-align: right;
+    margin-right: 40px;
+}
+
+h1{
+    font-family: "cardo", "Georgia", "Serif";
+    font-size: 45px;
+    font-style: normal;
+    text-transform: uppercase;
+    color: #ffffff;
+    letter-spacing: 15px;
+    margin-left: 40px;
+}
+
+
+a:link{text-decoration: none; color: #ffffff; margin: 30px;/*link that hasn't been visited*/}
+a:visited{text-decoration: none; color: #8f8f93; margin: 30px;/*once page is visited*/}
+a:active{text-decoration: underline; color: #ffffff; margin: 30px;/*link that is selected*/}
+a:hover{text-decoration: underline; color: #8f8f93; margin: 30px;/*when mouse is over link*/}
