@@ -2,23 +2,16 @@
 
 <html>
 
-
-
-
-
-
+<head>
 <?php
     include 'header.php';
     include 'navigation.php';
     include 'logo.php';
 ?>
 
+</head>
 
-
-    
-    
-    
-    <body>
+<body>
 
     <div class="container">
       <img src="images/me.png" alt="Image of myself" class="image2">
