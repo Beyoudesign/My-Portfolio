@@ -16,7 +16,7 @@
     
     
     <body>
-    <form action="submit-post.php" method="POST">
+    <form action="submit-contact.php" method="POST">
             <input type="text" name="name" placeholder="Name">
             <br><br>
             <input type="text" name="date" placeholder="Date">
